@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Türkiye Haritası</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            background-color: black; /* Arka plan siyah */
+        }
+
+        #map-container {
+            position: relative;
+            width: 100%;
+            height: 100vh;
+        }
+
+        #map-container img {
+            width: 100%;
+            height: 100%;
+        }
+
+        #sidebar {
+            position: absolute;
+            top: 0;
+            left: -150px; /* Başlangıçta görünmez */
+            width: 150px;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.8); /* Yarı saydam arka plan */
+            transition: left 0.3s ease; /* Geçiş efekti */
+            overflow: hidden;
+        }
+
+        #sidebar.visible {
+            left: 0; /* Görünür hale getir */
+        }
+    </style>
+</head>
+<body>
+    <div id="map-container">
+        <!-- PNG Türkiye Haritası -->
+        <img src="Anadolu_harita.jpeg" alt="Anadolu Haritası" id="map-image">
+    </div>
+
+    <div id="sidebar">
+        <h2>Hakkımızda</h2>
+        <!-- Diğer içerikler buraya eklenecek -->
+        <h2>Pro Bilgisi</h2>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // PNG dosyasını yükle
+            const mapImage = document.getElementById('map-image');
+
+            // PNG dosyası yüklendiğinde, gerekli işlemleri yapın
+            mapImage.addEventListener('load', function() {
+                // Örneğin, haritayı PNG üzerindeki koordinatlara göre işaretleyin
+                // Bu kısımda gerekli JavaScript işlemlerini yapabilirsiniz.
+            });
+
+            // Modal penceresini açan fonksiyon
+            function openModal(id) {
+                const modal = document.getElementById('sidebar');
+                const modalContent = modal.querySelector('h2');
+
+                // Burada id'ye göre ilgili içeriği alabilirsiniz.
+                const content = getContentById(id);
+
+                // Modal içeriğini güncelle (örneğin il adı ve hikayesi)
+                modalContent.innerHTML = content;
+
+                // Modal'ı görünür hale getir
+                modal.classList.add('visible');
+
+                // Modal dışına tıklandığında kapat
+                window.onclick = function(event) {
+                    if (event.target == modal) {
+                        modal.classList.remove('visible');
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

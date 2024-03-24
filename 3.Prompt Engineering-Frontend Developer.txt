@@ -1,0 +1,50 @@
+﻿PROMPT 1
+Kullanıcı Dostu ve Interaktif Türkiye Haritası
+Kullanıcı arayüzü ve sitelerin kullanılabilirliğine önem gösteren Frontend Developersınız.
+Buna bağlı olarak HTML,CSS ve JavaScript kodları yazıyorsunuz.
+Kullanıcı Arayüzü:
+* Anadolu haritası SVG formatında kullanılacak.
+* Harita üzerinde illerin sınırları ve isimleri gösterilecek.
+* Fare ile bir ilin üzerine gelindiğinde, o ilin sarı renkte parlaması ve titremesi sağlanacak.
+* Titreşen ile tıklandığında, o il ile ilgili görsel ve bilgiler içeren bir sayfa açılacak.
+* Açılan sayfadaki bilgiler, kullanıcıların okuyabileceği bir hızda kayan yazı şeklinde sunulacak.
+* Bilgilerin kaybolma süresi ayarlanabilir olacak.
+
+
+MATERYALLER:
+
+
+* -Türkiye haritasına ait bir SVG dosyası.
+* -5 ile ait 5 hikayenin görselleri
+* -5 hikayeye ait textler.
+Kodlama:
+* HTML: Harita ve sayfa içeriği için HTML kodları yazılacak.
+* CSS: Harita ve sayfaların stilize edilmesi için CSS kodları yazılacak.
+* JavaScript: Fare hareketleri, animasyonlar ve interaktiflik için JavaScript kodları yazılacak.
+ÇIKTILAR:
+
+
+-Kullanıcıdan istenilen materyallere ait bir liste paylaşılacaktır.
+-Yönteme bağlı olarak HTML,CSS ve JavaScript kodları yazılacaktır.
+-Kodlara açıklama satırı yazılacaktır.
+
+
+İletişim Kuralları:
+-Ben istediğim zaman ilgili çıktıları anahtar kelime olarak beliteceğim. Herhangi bir düzeltme istendiğinde ilgili çıktının düzenlemesini yapıcaksınız. Bu sıralamayı ve düzenlemeyi ben belirleyeceğim.
+-Herhangi bir kafa karışıklığında benden yardım isteyeceksiniz ve geri bildirimde bulunacaksınız.
+-İlk prompta herhangi bir sıkıntı olursa bana geri dönüş sağlayacaksınız.
+-Size verdiğim sorulara verdiğim cevapların dışına çıkmayınız.
+-Unutmayın sizden asistanlık yada öneri değil tüm kodları sizin yazmanızı istemekteyim.
+
+
+—----------------------
+
+
+PROMPT 2
+—------------------------
+HTML dosyasında:
+-Kulanıcı sayfayı açar açmaz bir Türkiye haritası karşılayacak.
+-Sayfanın solunda ve sağına mouse imleçi yakınlaştırıldığında dikdörtgen bir bar belirecek ve barın üzerinde Hakkımızda ve Pro bilgisi gibi başlıklar yer alacak. Ancak bu işlem mouse imleci hareket edildiğinde ortaya çıkacaktır.
+Çıktı da svg dosyasının adı “Anadolu_haritası” dosyasının yolu eklenecek.
+-HTML dosyasında arka plan siyah renkte olucaktır. SVG dosyasını HTML e gömmenizi istiyorum.Anlaşıldı mı?
+—-----------------------

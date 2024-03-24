@@ -1,0 +1,187 @@
+﻿PROMPT1
+Sanatsal ve iş konusunda yaratıcı fikirlerin bulunmasına yardımcı olan bir FikirGPT siniz. Size danışanların kolayca fikir bulmasına ve geliştirmesine yardımcı oluyorsunuz.
+AMACINIZ: 
+Bir web sitesi kurulması için kullanıcının ilgisinin anlaşılabileceği 20 anahtar kelime bulmanızı istiyorum. Bu anahtar kelimeler istediğim web sitesi hakkında bana bilgi verecek. 
+ANAHTAR KELİMELER İÇİN KRİTERLER: 
+-Anahtar kelimelerin ana akımda olmamasına özen gösterin. 
+-Soruların her biri yaratıcı olmalı ve bir önceki soruyla bağlantılı olmalıdır. 
+SORU FORMATI: 
+-Olabildiğince yaratıcı ve özgün anahtar kelimelerin çıkacağından emin olun. -Her seferinde tek bir soru sorun. Soru geçişlerinde bunun için anahtar kelime önerebilir miyim gibi sorular sormayın sadece o anahtar kelimeyi ilgili kolon satırına ekleyin. 
+-Anahtar kelimeyi kesinlikle ama kesinlikle kullanıcıyla paylaşmayın. 
+-Anlamadığınız noktalarda “anlamadım”, “olumsuz” diye belirtin. 
+SONUÇ FORMATI: 
+-Sorular sorulduktan sonra sütunu oluşturun. 
+-Sonuçlar için iki ayrı sütun oluşturun. 
+Birinci sütunda, 20 anahtar kelimeyi bir sütuna aktarın ve bu anahtar kelimeleri aldığınız sütuna, bu anahtar kelimeleri alma nedeni olan soruları ise diğer kolona aktarın.
+
+----------------------- 
+ChatGPT
+ChatGPT
+Tabii ki, başlayalım:
+Soru: Eğlence sektöründe yeni bir deneyim sunacak, kullanıcıları sürükleyici bir dünyaya sokacak bir web sitesi için ne tür bir konsept düşünebiliriz?
+ User 
+
+You
+bilmiyorum Eğlence sektörüyle ilgili değilim.
+ChatGPT
+ChatGPT
+Anladım, başka bir konsept üzerine devam edelim:
+Soru: İnsanların günlük yaşamlarında karşılaştıkları küçük sorunlara pratik çözümler sunan bir web sitesi için hangi tür sorunlara odaklanabiliriz?
+ User 
+
+You
+bu konuda da ilgim yok.
+ChatGPT
+ChatGPT
+Anlaşıldı, başka bir yöne doğru ilerleyelim:
+Soru: İnsanların merak ettikleri ancak genellikle bilgi bulmakta zorlandıkları bir alana odaklanan bir web sitesi için hangi konular ilgi çekebilir?
+ User 
+
+You
+hayır.
+ChatGPT
+ChatGPT
+Anladım, başka bir şeye yönelim:
+Soru: Doğa ve çevre ile ilgili farkındalığı artıracak bir platform için hangi konular ve etkinlikler ön plana çıkmalıdır?
+ User 
+
+You
+belki
+ChatGPT
+ChatGPT
+Anladım, devam edelim:
+Soru: Gezi ve doğa tutkunlarının seyahat planlarını kolaylaştıracak, keşfettikleri yerler hakkında bilgi alabilecekleri bir platform için hangi özellikler ve içerikler önemlidir?
+ User 
+
+You
+sadece yerel halkın bildiği google yerlerde olmayan yerler?
+ChatGPT
+ChatGPT
+Anlaşıldı, devam edelim:
+Soru: Yerel halkın bildiği ancak genellikle turistler tarafından bilinmeyen gizli mücevherleri keşfetmeye yönelik bir platform için hangi tür içerikler ve özellikler öne çıkmalıdır?
+ User 
+
+You
+atıyorum balıkesirde yemek yenilecek yerler.
+ChatGPT
+ChatGPT
+Anladım, devam edelim:
+Soru: Balıkesir'de yöresel lezzetleri deneyebileceğiniz, geleneksel tatları sunan ancak genellikle turist rehberlerinde yer almayan yerler için nasıl bir bilgi paylaşımı platformu oluşturabiliriz?
+ User 
+
+You
+am tek bir ile özgü olursa belki sıkıcı olabilir. Bir de bu tür platform çok var başka bir şey olmalı
+ChatGPT
+ChatGPT
+Anladım, çeşitliliği artıracak bir yöne doğru yönelelim:
+Soru: Yerel lezzetlerin yanı sıra, Balıkesir'in kültürel mirası, el sanatları, tarihi yerleri ve etkinlikleri gibi farklı konuları da kapsayan bir keşif platformu için hangi tür içerikler ve özellikler dikkate alınmalıdır?
+ User 
+
+You
+internette çok olmayan konulardan yola çıkan bir site olmalı.
+ChatGPT
+ChatGPT
+Anladım, daha özgün ve az bulunan bir konsept üzerinde durabiliriz:
+Soru: Balıkesir'in unutulmuş veya az bilinen kültürel miraslarına odaklanarak, bu değerleri koruma ve tanıtma amacı güden bir web sitesi için hangi tür içerikler ve etkinlikler ön plana çıkmalıdır?
+ User 
+
+You
+Yapılar, el işleri, hikayeler
+ChatGPT
+ChatGPT
+Anladım, devam edelim:
+Soru: Balıkesir'deki unutulmuş yapılar, kaybolmaya yüz tutmuş el işleri ve az bilinen yerel hikayeleri içeren bir platform için nasıl bir içerik stratejisi geliştirilebilir?
+ User 
+
+PROMPT 2
+kaybolmaya yüz tutacak olan anadolu hikayelerinin olduğu bir platform olacak. Bu platformdaki binalar o yörenin yerlerinden olacak.
+ChatGPT
+ChatGPT
+Anlaşıldı, devam edelim:
+Soru: Anadolu'nun çeşitli bölgelerinde kaybolmaya yüz tutmuş hikayeleri ve yerel mimari yapıları içeren bir platform için nasıl bir araştırma ve içerik toplama stratejisi geliştirilebilir?
+ User 
+
+You
+Yerel insanlarla iletişime geçilebilir ya da bölgedeki üniversitelerle iletişime geçilebilir.
+ChatGPT
+ChatGPT
+Anladım, devam edelim:
+Soru: Anadolu'nun çeşitli bölgelerindeki yerel halk veya üniversitelerle işbirliği yaparak kaybolmaya yüz tutmuş hikayeleri ve yerel mimari yapıları belgeleyen bir platform için nasıl bir iletişim ve işbirliği stratejisi oluşturulabilir?
+ User 
+
+You
+buna bağlı olarak ilk başta belirttiğim gibi bir tablo istiyorum.
+ChatGPT
+ChatGPT
+Anlaşıldı, işte istediğiniz tablo:
+Anahtar Kelimeler
+	İlgili Sorular
+	Anadolu Hikayeleri
+	- Balıkesir'in unutulmuş veya az bilinen hikayeleri için nasıl bir içerik stratejisi oluşturulabilir?
+	Yerel Mimari Yapılar
+	- Kaybolmaya yüz tutmuş binaları belgeleyen bir platform için nasıl bir araştırma stratejisi geliştirilebilir?
+	İletişim ve İşbirliği
+	- Anadolu'daki yerel halk veya üniversitelerle nasıl iletişime geçilir ve işbirliği yapılır?
+	 User 
+
+You
+Geri kalan 17 kelime nerede?
+ChatGPT
+ChatGPT
+Üzgünüm, bu soruyu yanlış anladım. Devam edelim:
+Anahtar Kelimeler
+	İlgili Sorular
+	Anadolu Hikayeleri
+	- Balıkesir'in unutulmuş veya az bilinen hikayeleri için nasıl bir içerik stratejisi oluşturulabilir?
+	Yerel Mimari Yapılar
+	- Kaybolmaya yüz tutmuş binaları belgeleyen bir platform için nasıl bir araştırma stratejisi geliştirilebilir?
+	İletişim ve İşbirliği
+	- Anadolu'daki yerel halk veya üniversitelerle nasıl iletişime geçilir ve işbirliği yapılır?
+	Şimdi geri kalan kelimeleri ekleyelim.
+ User 
+
+You
+ekle
+ChatGPT
+ChatGPT
+Tabii, işte kalan anahtar kelimeler ve ilgili sorular:
+Anahtar Kelimeler
+	İlgili Sorular
+	Anadolu Hikayeleri
+	- Balıkesir'in unutulmuş veya az bilinen hikayeleri için nasıl bir içerik stratejisi oluşturulabilir?
+	Yerel Mimari Yapılar
+	- Kaybolmaya yüz tutmuş binaları belgeleyen bir platform için nasıl bir araştırma stratejisi geliştirilebilir?
+	İletişim ve İşbirliği
+	- Anadolu'daki yerel halk veya üniversitelerle nasıl iletişime geçilir ve işbirliği yapılır?
+	Yerel El Sanatları
+	- Kaybolmaya yüz tutmuş yerel el sanatlarını belgelemek için hangi yöntemler kullanılabilir?
+	Kültürel Etkinlikler
+	- Balıkesir'de az bilinen kültürel etkinlikleri nasıl keşfedebilir ve tanıtabiliriz?
+	Tarihî Hikayeler
+	- Balıkesir'in tarihî öneme sahip ancak genellikle bilinmeyen hikayeleri nasıl bulabiliriz?
+	Geleneksel Mutfak
+	- Yöresel lezzetlerin korunması ve tanıtılması için nasıl bir platform oluşturulabilir?
+	Sahici Deneyimler
+	- Turist rehberlerinde bulunmayan ancak yerel halkın günlük yaşamından esinlenen deneyimler nelerdir?
+	Yerel Rehberler
+	- Balıkesir'deki yerel halktan rehberlik hizmeti almak için nasıl bir ağ oluşturulabilir?
+	Folklorik Gösteriler
+	- Yöresel folklorik gösterilerin belgelenmesi ve tanıtılması için hangi yöntemler kullanılabilir?
+	Yerel Tarih Araştırması
+	- Balıkesir'in yerel tarihini derinlemesine araştırmak ve belgelemek için hangi kaynaklar kullanılabilir?
+	Doğal Manzaralar
+	- Turistlerin nadiren gördüğü ancak muhteşem doğal manzaraları nasıl keşfedebiliriz?
+	Yerel Sanatçılar
+	- Balıkesir'deki yetenekli yerel sanatçıların eserlerini nasıl tanıtabiliriz?
+	Halk Hikayeleri
+	- Yerel halk arasında dilden dile dolaşan geleneksel hikayeleri nasıl belgeleyebiliriz?
+	Kaybolan Meslekler
+	- Balıkesir'de azalan veya kaybolmaya yüz tutmuş geleneksel meslekleri nasıl koruyabiliriz?
+	El Yazması Belgeler
+	- Kaybolmaya yüz tutmuş el yazması belgelerin korunması ve dijitalleştirilmesi için nasıl bir strateji oluşturulabilir?
+	Topluluk Odaklı Projeler
+	- Yerel toplulukların katılımını sağlayacak kültürel projeler nasıl geliştirilebilir?
+	Yerel Zanaatkarlar
+	- Balıkesir'deki geleneksel zanaatkarların eserlerini nasıl tanıtabilir ve destekleyebiliriz?
+	Yerel Lezzet Turları
+	- Balıkesir'de yöresel lezzetleri tanıtmak için nasıl lezzet turları düzenlenebilir?

@@ -1,0 +1,40 @@
+﻿PROMPT 1
+Turkey map in 3d with black municipality borders,all municipalities have white blank fill.  view is taken from southeast side, other countries have blurred with black color.
+—----------------------
+Turkey map in 3d with black municipality borders,all municipalities have white blank fill.  view is taken from southeast side. Mediterranean side and Europe continents are seen a litte bit.other countries have blurred with black color.
+
+
+----------------------
+
+
+5 ŞEHRE AİT HİKAYELERİ VE GÖRSELLERİ
+1. Tunceli:
+Prompt 2:
+Visual: Munzur Valley Fairy Chimneys
+Colors: Sky blue, orange rocks, and cream-colored sand
+Style: Fantasy,painting
+Composition: A group of people hiking through a valley of towering, oddly shaped rock formations, with a bright blue sky above.
+2. Artvin:
+Prompt 3:
+Visual: Borçka Karagöl Legend
+Colors: Green, purple, and black
+Style: Realistic,photo
+Composition: A dark and mysterious lake surrounded by fog, with a small boat in the center and the ruins of a village in the background.
+3. Mardin:
+Prompt 4:
+Visual: Şeytan Deresi Legend
+Colors: Red, black, and orange
+Style: Horror,cinematic,pastel,painting
+Composition: A man standing on a cliff overlooking a river of lava, with flames rising up from the depths below.
+4. Antalya:
+Prompt 5:
+Visual: Olympos's Lost City
+Colors: Orange, green, and blue
+Style: Adventure,photo
+Composition: A group of explorers searching for the ruins of an ancient city, with lush vegetation and the Mediterranean Sea in the background.
+5. Amasya:
+Prompt 6:
+Visual: Aynalı Mağara Legend
+Colors: Blue, pink, and purple
+Style: Romance,painting
+Composition: A couple looking at each other in a cave with glowing walls, their reflections creating a heart shape.
